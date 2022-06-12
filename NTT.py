@@ -1,5 +1,4 @@
 '''
-verified 2020/11/05 https://atcoder.jp/contests/practice2/submissions/17893800
 非再帰数論変換(NTT)
 原始根があるNTT-friendlyなMODで使用可能
 

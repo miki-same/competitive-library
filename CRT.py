@@ -1,7 +1,4 @@
 '''
-verified 2020/12/22
-https://yukicoder.me/submissions/596580
-
 extgcd(a,b):
 ax+by=gcd(a,b)
 を解き、gcd(a,b),x,yを返す

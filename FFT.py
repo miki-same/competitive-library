@@ -1,5 +1,4 @@
 '''
-verified 2020/11/05 https://atcoder.jp/contests/atc001/submissions/17888886
 ζを用いた非再帰高速フーリエ変換
 
 convolution(a,b):配列a,bを畳み込んだ配列cを返す
